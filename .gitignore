@@ -6,3 +6,6 @@ SAMR
 *.swp
 # Serious: Deal with confused Mac users
 .DS_Store
+*.apy
+!myfile.apy
+**/tmp
